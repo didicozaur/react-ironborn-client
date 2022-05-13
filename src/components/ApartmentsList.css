@@ -1,0 +1,12 @@
+.ApartmentsList .apartment-summary {
+  text-align: center;
+  border: 1px solid #666;
+  background-color: rgb(255, 231, 180);
+  margin: 1rem 2rem;
+  padding: 1rem;
+}
+.ApartmentsList .apartment-summary img {
+  max-height: 200px;
+  display: block;
+  margin: 1rem auto;
+}
